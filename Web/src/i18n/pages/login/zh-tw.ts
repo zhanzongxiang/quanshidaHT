@@ -1,0 +1,52 @@
+// 定义内容
+export default {
+	label: {
+		label1: '帳號登入',
+		label2: '手機號登入',
+		label3: '用戶註冊',
+		label4: '沒有帳號? 去',
+		label5: '註冊帳號',
+		label6: '已有帳戶? 去',
+		label7: '登入帳號',
+	},
+	link: {
+		one3: '協力廠商登入',
+		two4: '友情連結',
+	},
+	register: {
+		placeholder1: '請選擇租戶',
+		placeholder2: '請輸入手機號',
+		placeholder3: '請輸入登入帳號',
+		placeholder4: '請輸入您的姓名',
+		placeholder5: '請輸入驗證碼',
+		placeholder6: '註冊失敗！',
+		btnText: '註 冊',
+	},
+	account: {
+		placeholder1: '請輸入帳號',
+		placeholder2: '請輸入密碼',
+		placeholder3: '請選擇租戶',
+		placeholder4: '請輸入驗證碼',
+		placeholder5: '大寫鎖定已打開',
+		placeholder6: '請按住滑塊拖動',
+		placeholder7: '驗證通過',
+		placeholder8: '登入失敗，請檢查帳號！ ',
+		placeholder9: '抱歉，您沒有登錄許可權',
+		placeholder10: '驗證碼已過期',
+		btnText: '登 入',
+	},
+	mobile: {
+		placeholder1: '請選擇租戶',
+		placeholder2: '請輸入手機號',
+		placeholder3: '請輸入驗證碼',
+		codeText: '獲取驗證碼',
+		btnText: '登 入',
+		msgText: '*溫馨提示：建議使用穀歌、 Microsoft Edge, 版本79.0.1072.62及以上瀏覽器,360瀏覽器請使用極速模式',
+	},
+	scan: {
+		placeholder1: '請選擇租戶',
+		text: '打開手機掃一掃,快速登錄/注册',
+	},
+	signInText: '歡迎回來！ ',
+	registerText: '歡迎加入,請使用默認密碼登入！ ',
+};	

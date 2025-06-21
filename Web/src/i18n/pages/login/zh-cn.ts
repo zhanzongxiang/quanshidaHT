@@ -1,0 +1,52 @@
+// 定义内容
+export default {
+	label: {
+		label1: '账号登录',
+		label2: '手机号登录',
+		label3: '用户注册',
+		label4: '没有账号? 去',
+		label5: '注册账号',
+		label6: '已有账户? 去',
+		label7: '登录账号',
+	},
+	link: {
+		one3: '第三方登录',
+		two4: '友情链接',
+	},
+	register: {
+		placeholder1: '请选择租户',
+		placeholder2: '请输入手机号',
+		placeholder3: '请输入登录账号',
+		placeholder4: '请输入您的姓名',
+		placeholder5: '请输入验证码',
+		placeholder6: '注册失败！',
+		btnText: '注 册',
+	},
+	account: {
+		placeholder1: '请输入账号',
+		placeholder2: '请输入密码',
+		placeholder3: '请选择租户',
+		placeholder4: '请输入验证码',
+		placeholder5: '大写锁定已打开',
+		placeholder6: '请按住滑块拖动',
+		placeholder7: '验证通过',
+		placeholder8: '登录失败，请检查账号！',
+		placeholder9: '抱歉，您没有登录权限',
+		placeholder10: '验证码已过期',
+		btnText: '登 录',
+	},
+	mobile: {
+		placeholder1: '请选择租户',
+		placeholder2: '请输入手机号',
+		placeholder3: '请输入验证码',
+		codeText: '获取验证码',
+		btnText: '登 录',
+		msgText: '* 温馨提示：建议使用谷歌、Microsoft Edge，版本 79.0.1072.62 及以上浏览器，360浏览器请使用极速模式',
+	},
+	scan: {
+		placeholder1: '请选择租户',
+		text: '打开手机扫一扫，快速登录/注册',
+	},
+	signInText: '欢迎回来！',
+	registerText: '欢迎加入, 请使用默认密码登录！',
+};

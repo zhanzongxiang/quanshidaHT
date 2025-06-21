@@ -1,0 +1,51 @@
+// 定义内容
+export default {
+	label: {
+		label1: 'Account login',
+		label2: 'Phone number login',
+		label3: 'User Registration',
+		label4: 'No account? Go',
+		label5: 'Register Account',
+		label6: 'Do you already have an account? Go',
+		label7: 'Login Account',
+	},
+	link: {
+		one3: 'Third party login',
+		two4: 'Links',
+	},
+	register: {
+		placeholder1: 'Please select a tenant',
+		placeholder2: 'Please enter your phone number',
+		placeholder3: 'Please enter your login account',
+		placeholder4: 'Please enter your name',
+		placeholder5: 'Please enter the verification code',
+		placeholder6: 'Registration failed! ',
+		btnText: 'Registration',
+	},
+	account: {
+		placeholder1: 'Please enter account',
+		placeholder2: 'Please enter password',
+		placeholder3: 'Please select a tenant',
+		placeholder4: 'Please enter the verification code',
+		placeholder5: 'Capitalization lock is turned on',
+		placeholder6: 'Please hold down the slider and drag',
+		placeholder7: 'Verified',
+		placeholder8: 'Login failed, please check your account! ',
+		placeholder9: 'Sorry, you do not have login permission',
+		placeholder10: 'Verification code has expired',
+		btnText: 'Sign in',
+	},
+	mobile: {
+		placeholder1: 'Please select a tenant',
+		placeholder2: 'Please input mobile phone number',
+		placeholder3: 'Please enter the verification code',
+		codeText: 'Get code',
+		btnText: 'Sign in',
+		msgText: 'Warm tip: it is recommended to use Google, Microsoft edge, version 79.0.1072.62 and above browsers, and 360 browser, please use speed mode',
+	},
+	scan: {
+		placeholder1: 'Please select a tenant',
+		text: 'Open the mobile phone to scan and quickly log in / register',
+	},
+	signInText: 'welcome back!',
+};
